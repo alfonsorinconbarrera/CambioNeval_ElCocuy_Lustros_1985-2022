@@ -1,8 +1,7 @@
 # CambioNeval_ElCocuy_Lustros_1985-2022
 
 <p align="center">
-  <img width="360" src="/
-CambioNeval_ElCocuy_Lustros_1985-2022/SecuenciaLustros_1985-2022/Imagenes_Gif">
+  <img width="360" src="/CambioNeval_ElCocuy_Lustros_1985-2022/SecuenciaLustros_1985-2022/Imagenes_Gif">
 </p>
 
 Retroceso glaciar del nevado el Cocuy. Imágenes satelitales de la misión Landsat, en intervalo de lustros para 1985 a 2022. 
