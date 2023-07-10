@@ -12,4 +12,5 @@ La última imagen, corresponde a la mediana estadística anual, del Índice Dife
 
 Fuente datos: USGC - NASA - CLIMATE ENGINE
 
-Composición y anáilis: Alfonso rincón barrera
+Composición y anáilis: 
+Alfonso rincón barrera
